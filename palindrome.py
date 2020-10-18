@@ -10,9 +10,9 @@ def middle(word):
 def is_palindrome(word):
     return word == word[::-1]
 
-print(is_palindrome('mom'))
-print(is_palindrome('radar'))
-print(is_palindrome('higher'))
-print(is_palindrome('upper'))
-print(is_palindrome('aa'))
-print(is_palindrome('p'))
+print(is_palindrome('bob'))
+print(is_palindrome('sandy'))
+print(is_palindrome('apple'))
+print(is_palindrome('kayak'))
+print(is_palindrome('elephant'))
+print(is_palindrome('racecar'))
